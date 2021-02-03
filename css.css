@@ -47,9 +47,10 @@ h1 {
     width: 99%;
     position: absolute;
     bottom: 0;
-    background-color: grey;
+    background-color: black;
     color: white;
     text-align: center;
+    margin-bottom: 5%;
 }
 
 .clock {
@@ -57,7 +58,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color: #17D4FE;
+    color: white;
     font-size: 60px;
     font-family: Orbitron;
     letter-spacing: 7px;
